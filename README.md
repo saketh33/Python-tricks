@@ -6,3 +6,5 @@ This shows your pc charge percent as well you re plugged in or not using psutil 
 It converts any video to audio using moviepy library
 # Notifier for PC
 It can send notofication to your pc using pynotifier library and it aslo u need win10toast library
+# Check IP address 
+You can check your host details and ur ip address using socket library
