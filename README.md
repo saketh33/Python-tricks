@@ -8,3 +8,5 @@ It converts any video to audio using moviepy library
 It can send notofication to your pc using pynotifier library and it aslo u need win10toast library
 # Check IP address 
 You can check your host details and ur ip address using socket library
+# IMDB 
+You can check here top movie list,movie results ,imdb url of a movie,actor's imdb id etc.., using imdbpy module
