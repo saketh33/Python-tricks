@@ -12,3 +12,5 @@ You can check your host details and ur ip address using socket library
 You can check here top movie list,movie results ,imdb url of a movie,actor's imdb id etc.., using imdbpy module
 # Youtube downloader
 It can download any youtube video using youtube_dl library
+# Text to Speech
+It converts texts to speech
