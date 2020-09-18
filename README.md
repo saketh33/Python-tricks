@@ -10,3 +10,5 @@ It can send notofication to your pc using pynotifier library and it aslo u need 
 You can check your host details and ur ip address using socket library
 # IMDB 
 You can check here top movie list,movie results ,imdb url of a movie,actor's imdb id etc.., using imdbpy module
+# Youtube downloader
+It can download any youtube video using youtube_dl library
