@@ -14,3 +14,5 @@ You can check here top movie list,movie results ,imdb url of a movie,actor's imd
 It can download any youtube video using youtube_dl library
 # Text to Speech
 It converts texts to speech
+# Translator
+It can translate from any language to any languae using googletrans library
