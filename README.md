@@ -17,6 +17,6 @@ It converts texts to speech
 # Translator
 It can translate from any language to any languae using googletrans library
 # Whatsapp message
-YOu can send message at a particular time to any number using this pywhatkit library
+You can send message at a particular time to any number using this pywhatkit library
 # QR code generator
 You can create you own qr code for any link using pyqrcode and pypng libraries
