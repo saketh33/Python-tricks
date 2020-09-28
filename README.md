@@ -22,5 +22,5 @@ You can send message at a particular time to any number using this pywhatkit lib
 You can create you own qr code for any link using pyqrcode and pypng libraries
 # Insta Follower Notifier
 It can show any ones insta follow count and the recent checked follow count at a particular interval of time
-# Mobile network provider
+# Mobile number details
 It can show any mobile network service provider name like airtel or idea or jio or some other 
