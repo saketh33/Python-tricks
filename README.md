@@ -23,4 +23,4 @@ You can create you own qr code for any link using pyqrcode and pypng libraries
 # Insta Follower Notifier
 It can show any ones insta follow count and the recent checked follow count at a particular interval of time
 # Mobile number details
-It can show any mobile network service provider name like airtel or idea or jio or some other 
+It can show any mobile network service provider name like airtel or idea or jio or some other and the location using phonenumbers library
